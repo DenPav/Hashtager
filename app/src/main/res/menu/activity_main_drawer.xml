@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/main"
+            android:title="Main" />
+        <item android:id="@+id/login_activity"
+            android:title="Accounts" />
+        <item android:id="@+id/nav_manage"
+            android:title="Settings" />
+
+    </group>
+
+</menu>
